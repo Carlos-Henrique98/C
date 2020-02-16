@@ -1,6 +1,6 @@
 [Project]
-FileName=002 - Concatenar.dev
-Name=002 - Concatenar
+FileName=004 - OperacaoMatematica.dev
+Name=004 - OperacaoMatematica
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=002-Concatenacao.c
+FileName=..\004-OperacaoMatematica\004 - operacaoMatematica.c
 CompileCpp=0
 Folder=
 Compile=1
