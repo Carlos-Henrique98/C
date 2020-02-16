@@ -1,6 +1,6 @@
 [Project]
-FileName=009 - CondicoesMultiplas.dev
-Name=009 - CondicoesMultiplas
+FileName=010 - CondicionalSwitchCase.dev
+Name=010 - CondicionalSwitchCase
 Type=1
 Ver=2
 ObjFiles=
@@ -29,7 +29,6 @@ IncludeVersionInfo=0
 SupportXPThemes=0
 CompilerSet=0
 CompilerSettings=0000000000000000000000000
-UnitCount=1
 
 [VersionInfo]
 Major=1
@@ -49,14 +48,4 @@ ProductName=
 ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
-
-[Unit1]
-FileName=009 - CondicoesMultiplas.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
 
