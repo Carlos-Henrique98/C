@@ -1,6 +1,6 @@
 [Project]
-FileName=LacoDeRepeticao - WHILE.dev
-Name=LacoDeRepeticao - WHILE
+FileName=013 - DOWHILE.dev
+Name=013 - DOWHILE
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=012 - while.c
+FileName=dowhile.c
 CompileCpp=0
 Folder=
 Compile=1
