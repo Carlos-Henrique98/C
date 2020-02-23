@@ -1,6 +1,6 @@
 [Project]
-FileName=017 - LerVetores.dev
-Name=017 - LerVetores
+FileName=018 - Strings.dev
+Name=018 - Strings
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=017 - LerVetores.c
+FileName=018 - Strings.c
 CompileCpp=0
 Folder=
 Compile=1
