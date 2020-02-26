@@ -9,7 +9,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	
-	//Criando uma matriz
+	//Criando uma matriz - linha e coluna
 	int matriz [2] [2], i, j;
 	
 	//Passando Valores
